@@ -99,6 +99,16 @@
       "pull_requests_merged": 2,
       "meetings": 1,
       "documentation": 3
+    },
+    {
+      "id": 10,
+      "date": "2023-06-05",
+      "name": "Bob",
+      "commits": 3,
+      "pull_requests_opened": 1,
+      "pull_requests_merged": 2,
+      "meetings": 1,
+      "documentation": 3
     }
   ]
 }
